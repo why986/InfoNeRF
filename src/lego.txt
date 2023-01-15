@@ -25,3 +25,5 @@ entropy_ray_zvals_lambda = 0.001
 precrop_iters = 500
 precrop_frac = 0.5
 
+fewshot = 4
+train_scene = [26, 86, 2, 55]
